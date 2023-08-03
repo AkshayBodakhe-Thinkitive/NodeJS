@@ -1,0 +1,12 @@
+
+understanding the basics
+understanding the web
+
+creating server
+
+core modules
+- http - launch a server
+- https
+- fs
+- path
+- os
